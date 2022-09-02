@@ -1,0 +1,1 @@
+document.querySelectorAll("a").forEach(e=>e.addEventListener("click", ()=>document.getElementById("nav-close").click()));
